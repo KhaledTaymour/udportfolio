@@ -15,7 +15,7 @@ Some useful tips to help you get started:
 
   ```bash
   $> cd /path/to/your-project-folder
-  $> python -m SimpleHTTPServer 8080
+  $> python -m http.server 8080
   ```
 
 1. Open a browser and visit localhost:8080
@@ -53,3 +53,11 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 
 * <a href="http://getbootstrap.com/css/">Bootstrap's CSS Classes</a>
 * <a href="http://getbootstrap.com/components/">Bootstrap's Components</a>
+
+
+### My Project:
+- deployed on github pages: https://khaledtaymour.github.io/udportfolio/
+- tested on https://pagespeed.web.dev
+- scored: 99% on desktop, 92% on mobile
+- see the commit to know what I have changed.
+- for mobile we can provide smaller images to enhance the score.
